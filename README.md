@@ -3,3 +3,10 @@ Tool that optimizes deliveries to various locations Los Angeles from a central d
 
 # How to use
 
+Write the latitude and longitude of your starting depot and the various delivery locations that you want to go to.
+Also include the contents of your delivery.
+Write this in the proj4/deliveries.txt file in the same format that the sample deliveries.txt file uses.
+
+The first line is the lat/long of the depot.
+
+Run proj4exec.exe

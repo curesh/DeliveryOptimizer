@@ -8,3 +8,6 @@ Also include the contents of your delivery.
 Write this in the proj4/deliveries.txt file in the same format that the sample deliveries.txt file uses.
 
 Run proj4/proj4exec.exe
+
+### Note
+Project 4 for CS32 Class at UCLA
